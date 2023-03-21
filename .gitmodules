@@ -4,3 +4,6 @@
 [submodule "YouTube-VdoD"]
 	path = YouTube-VdoD
 	url = https://github.com/Ayon-SSP/YouTube-VdoD
+[submodule "yt-dl"]
+	path = yt-dl
+	url = https://github.com/Ayon-SSP/yt-dl
