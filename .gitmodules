@@ -1,0 +1,6 @@
+[submodule "Twitter-bot"]
+	path = Twitter-bot
+	url = https://github.com/Ayon-SSP/Twitter-bot
+[submodule "YouTube-VdoD"]
+	path = YouTube-VdoD
+	url = https://github.com/Ayon-SSP/YouTube-VdoD
